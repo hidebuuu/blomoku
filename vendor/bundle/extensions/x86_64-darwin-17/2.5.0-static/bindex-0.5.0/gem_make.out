@@ -1,0 +1,15 @@
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/hidekikobayashi/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190109-2444-w5nbw7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190109-2444-1wms7wu/bindex

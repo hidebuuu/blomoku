@@ -1,0 +1,19 @@
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/hidekikobayashi/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190109-2444-1544sud.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/hidekikobayashi/blomoku/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190109-2444-kad9zq/byebug
